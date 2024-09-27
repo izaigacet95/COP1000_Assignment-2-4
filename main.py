@@ -1,8 +1,8 @@
 # Variables
 
 # Added new salary and dependents
-salary = 60000.0
-num_dependents = 3
+salary = 30000.0
+num_dependents = 6
 
 # Calculate state withholding tax (6.5%)
 state_tax = salary * 0.065
